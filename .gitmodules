@@ -1,0 +1,3 @@
+[submodule "deps/xpir"]
+	path = deps/xpir
+	url = https://github.com/pung-project/xpir
